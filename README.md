@@ -34,8 +34,9 @@ Python scripts (`script.py`) were used for data processing and visualization, an
 ![Airline Satisfaction Dashboard](Dashboard.png)
 
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/AirlinePassengerSatisfactionAnalysis_17768549589120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-👉 中文版本請見 [航空旅客滿意度分析]
 
+👉 中文版本請見 [航空旅客滿意度分析]
+(https://github.com/hlr95035339/Airline-Passenger-Satisfaction-Analysis_CN.git)
 ---
 
 ## Business Insights
